@@ -1,15 +1,21 @@
 body {
+
+
 	background-color: skyblue;
+	font-family: Helvatica;
 }
+
 * {
 		box-sizing: border-box;
 		margin: 20px;
 		padding: 0px;
 	}
+
 	h1 {
 		text-align: center;
 		margin: 30px;
 	}
+
     .box {
 	background-color: grey;
 	border: 1px solid black;
@@ -21,6 +27,7 @@ body {
 	height: 40px;
 	font-size: 120%;
         }
+
     .p1 {
 	background-color: blue;
 	border: 1px solid black;
@@ -57,7 +64,7 @@ body {
 	position: relative;
 	top: -470px;
 	left: 690px;
-}
+
 }
 
 @media (min-width: 1200px) {
